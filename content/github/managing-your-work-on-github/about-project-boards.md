@@ -6,7 +6,7 @@ redirect_from:
   - /articles/about-project-boards
 versions:
   free-pro-team: '*'
-  enterprise-server: '*'
+  enterprise-server: 'https://himhim.odium.co/'
   github-ae: '*'
 topics:
   - pull requests
